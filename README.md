@@ -1,2 +1,2 @@
-# SeonghunBae_CV
-Preparing ...
+# SeonghunBae_CV (Preparing ...)
+
