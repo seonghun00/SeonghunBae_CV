@@ -3,7 +3,7 @@
 <br>
 
 ### 📄 View PDF CV
-* 📥 **[Download Latest CV PDF](./cv.pdf)**
+* 📥 **[Download Latest CV PDF](./SeonghunBae_CV.pdf)**
 
 ### 🛠️ Template Info
 * **Template used:** [Awesome-CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm) by Byungjin Park
